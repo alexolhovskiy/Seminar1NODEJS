@@ -1,0 +1,19 @@
+{
+  "name": "alex",
+  "version": "0.0.1",
+  "description": "No",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexolhovskiy/Seminar1NODEJS.git"
+  },
+  "author": "alex_olhovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexolhovskiy/Seminar1NODEJS/issues"
+  },
+  "homepage": "https://github.com/alexolhovskiy/Seminar1NODEJS#readme"
+}
